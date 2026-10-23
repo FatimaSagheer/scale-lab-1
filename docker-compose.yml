@@ -1,0 +1,7 @@
+services:
+  web:
+    build: ./app
+    ports: ["8000:8000"]
+    environment:
+      DB_POOL_SIZE: "40"
+      DB_QUERY_MS: "50"

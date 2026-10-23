@@ -1,0 +1,46 @@
+[
+  {
+    "requests": 100,
+    "avg_ms": 152.2,
+    "p50_ms": 148.5,
+    "p95_ms": 211.2,
+    "p99_ms": 245.1,
+    "failed": 0,
+    "fail_pct": 0.0,
+    "throughput_rps": 401.2,
+    "duration_s": 0.25
+  },
+  {
+    "requests": 1000,
+    "avg_ms": 313.0,
+    "p50_ms": 324.4,
+    "p95_ms": 348.0,
+    "p99_ms": 401.8,
+    "failed": 0,
+    "fail_pct": 0.0,
+    "throughput_rps": 580.5,
+    "duration_s": 1.72
+  },
+  {
+    "requests": 5000,
+    "avg_ms": 318.1,
+    "p50_ms": 318.6,
+    "p95_ms": 334.5,
+    "p99_ms": 343.8,
+    "failed": 0,
+    "fail_pct": 0.0,
+    "throughput_rps": 615.1,
+    "duration_s": 8.13
+  },
+  {
+    "requests": 10000,
+    "avg_ms": 319.1,
+    "p50_ms": 317.2,
+    "p95_ms": 336.6,
+    "p99_ms": 365.9,
+    "failed": 0,
+    "fail_pct": 0.0,
+    "throughput_rps": 619.4,
+    "duration_s": 16.14
+  }
+]
